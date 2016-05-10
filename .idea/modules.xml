@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-tdd-prime-factors.iml" filepath="$PROJECT_DIR$/.idea/learn-tdd-prime-factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-factors/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors/prime-factors.iml" />
+    </modules>
+  </component>
+</project>
